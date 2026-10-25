@@ -1,0 +1,14 @@
+D:\gitff\RSA_Baitap2\bin\Debug\net8.0\RSA_Baitap2.exe
+D:\gitff\RSA_Baitap2\bin\Debug\net8.0\RSA_Baitap2.deps.json
+D:\gitff\RSA_Baitap2\bin\Debug\net8.0\RSA_Baitap2.runtimeconfig.json
+D:\gitff\RSA_Baitap2\bin\Debug\net8.0\RSA_Baitap2.dll
+D:\gitff\RSA_Baitap2\bin\Debug\net8.0\RSA_Baitap2.pdb
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\RSA_Baitap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\RSA_Baitap2.AssemblyInfoInputs.cache
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\RSA_Baitap2.AssemblyInfo.cs
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\RSA_Baitap2.csproj.CoreCompileInputs.cache
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\RSA_Baitap2.dll
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\refint\RSA_Baitap2.dll
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\RSA_Baitap2.pdb
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\RSA_Baitap2.genruntimeconfig.cache
+D:\gitff\RSA_Baitap2\obj\Debug\net8.0\ref\RSA_Baitap2.dll
