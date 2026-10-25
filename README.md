@@ -6,7 +6,7 @@
 *   **Hình thức:** Báo cáo thực hành & Mã nguồn ứng dụng (.NET)
 
 ---
-
+ 
 ## MỤC LỤC
 1. [Bài tập 1: Thuật toán mã hóa đối xứng AES](#bai-tap-1-thuat-toan-ma-hoa-doi-xung-aes)
    * 1.1 Khởi tạo và Quản lý khóa AES
